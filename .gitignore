@@ -1,0 +1,5 @@
+nota1=input ("ingrese primera nota")
+nota2=input ("ingrese segunda nota nota")
+nota3= float(raw_input("ingrese la tercera nota:"))
+prom=(nota1+nota2+nota3)/3.0
+print "el promedio es:", prom
